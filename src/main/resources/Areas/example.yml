@@ -1,0 +1,12 @@
+ExampleArea:
+  region: "ExampleWGRegion"
+  isCSArea: false
+  name: "&aExample"
+  world: "taskworld"
+  description:
+    - "1"
+    - "2"
+  sound: ""
+  time: 5
+  command:
+    - "say %player% discovered %area%"

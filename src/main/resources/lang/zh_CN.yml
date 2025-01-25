@@ -1,0 +1,35 @@
+ReloadSuccess: "{0}&a重载成功!"
+DiscoverSuccess: "{0}&a成功为 &e{1} 解锁 {2} &a!"
+UnDiscoverSuccess: "{0}&a成功清除 &e{1} &a对 {2} &a的解锁状态!"
+Discovering: "{0}&a探索区域中: {1} &a- &e{2}"
+DiscoverStop: "{0}&c探索区域: {1} &c- &e中止"
+Discover:
+  - type: title
+    title: "&a&l发现地区!!!"
+    subtitle: "&a&l{0}"
+    fadein: 10
+    stay: 30
+    fadeout: 10
+  - '&fま &r'
+  - '              &a&l发现地区:'
+  - '               {0}'
+  - type: json
+    text: '           [&7&l&n(点击查看介绍)]'
+    args:
+      - hover: '{1}'
+  - ''
+Enter:
+  - type: title
+    title: "&a&l地区"
+    subtitle: "&a&l{0}"
+    fadein: 10
+    stay: 30
+    fadeout: 10
+  - '&fま &r'
+  - '              &a&l地区:'
+  - '               {0}'
+  - type: json
+    text: '           [&7&l&n(点击查看介绍)]'
+    args:
+      - hover: '{1}'
+  - ''

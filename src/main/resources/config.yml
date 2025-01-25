@@ -1,0 +1,14 @@
+Prefix: "&7[&a!&7]"
+
+Database:
+  enable: false
+  host: localhost
+  port: 3306
+  user: root
+  password: root
+  database: tiatareas
+  table: tiatareas
+
+Settings:
+  PlaceholderAPI:
+    nullArea: "提娅特大陆"
