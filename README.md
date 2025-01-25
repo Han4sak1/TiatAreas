@@ -1,4 +1,6 @@
-# TabooLib SDK
+# TiatAreas
+
+对RPGRegions拙劣的模仿，业余选手，码力勿喷
 
 ## 构建发行版本
 
